@@ -1,0 +1,23 @@
+ul.mainNav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    font-weight: 300;
+    float: right;
+}
+
+ul.mainNav img {
+    height: auto;
+}
+ul.mainNav li {
+    float: left;
+}
+
+ul.mainNav.left {
+    float: left;
+}
+
+ul.mainNav.left li {
+    float: left;
+}
