@@ -2,6 +2,8 @@ body {
 
     margin: 0;
     font-family: "sans-serif";
+    min-width: 1400px;
+
 }
 
 nav ul {
@@ -50,6 +52,7 @@ header.row.centered {
 
     background-color: #EEE9E5;
     padding-bottom: 150px;
+    min-height: 800px;
 }
 
 section.wrapper {
@@ -128,8 +131,8 @@ footer section.row.centered {
     align-items: baseline;
 }
 
-footer section ul li {
-
+footer section ul, footer section li {
+  padding: 0;
     list-style-type: none;
-    text-align: left;
+    text-align: center;
 }
