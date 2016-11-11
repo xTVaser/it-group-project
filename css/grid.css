@@ -56,6 +56,10 @@
     padding-right: 0;
 }
 
+*.clear {
+  clear: both;
+}
+
 
 /*
     That's it, now just make whatever sized columns we want and we can use them.
