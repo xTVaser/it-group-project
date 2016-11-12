@@ -32,7 +32,7 @@ nav li a:hover {
 }
 
 nav li a.active {
-  
+
     color: #E0D10A;
 }
 
@@ -76,7 +76,7 @@ ul.mainNav img {
 ul.mainNav li {
     text-align: right;
     font-family: "Francois One", "sans-serif";
-    font-weight: 800;
+    font-weight: 500;
     color: #FFF;
 }
 
@@ -97,6 +97,8 @@ ul.mainNav li.slogan {
     color: #732B24;
     font-size: 25px;
     line-height: 2em;
+    font-weight: 800;
+    text-decoration: none;
 }
 
 ul.mainNav.left {
@@ -112,7 +114,12 @@ section.col-4 img {
 }
 
 article h1 {
-    margin-top: 75px;
+    margin-top: 50px;
+}
+
+section.col-4 {
+
+    padding-right: 5px;
 }
 
 footer {
