@@ -18,6 +18,9 @@ nav li {
     padding-bottom: 15px;
     background-color: #000;
     padding: 15px;
+    border-bottom-style: solid;
+    border-bottom-color: white;
+    border-bottom-width: thin;
 }
 
 nav li a {
@@ -32,13 +35,17 @@ nav li a:hover {
 }
 
 nav li a.active {
-  
+
     color: #E0D10A;
 }
 
 nav li a.active:hover {
 
     color: #A2A2A2;
+}
+
+#namenav{
+  background-color: #2e2e30;
 }
 
 header.row.centered {
