@@ -177,6 +177,14 @@ footer a {
     text-decoration: none;
 }
 
+table{
+    line-height: 3
+}
+
+th, td {
+    padding: 15px;
+    text-align: left;
+}
 footer a:hover {
 
     text-decoration: underline;
