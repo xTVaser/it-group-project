@@ -182,7 +182,8 @@ table{
 }
 
 th, td {
-    padding: 15px;
+    padding: 20px;
+    line-height: 1.5em;
     text-align: left;
 }
 footer a:hover {
